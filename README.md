@@ -1,2 +1,5 @@
 # pco_walrus
-Sync Songs from Planning Center Services with Walrus Clock
+Sync Songs from Planning Center Services with Walrus Canvas Clock
+
+
+
